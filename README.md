@@ -1,4 +1,14 @@
-### Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Creating%20github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Creating%20github&fontSize=90" />
+
+
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+</div>
+
 
 <!--
 **zeroseok/zeroseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
