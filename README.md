@@ -1,3 +1,12 @@
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
+
+
+
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=zeroseok&show_icons=true&theme=highcontrast" width = "49%" height="130%" />
 </div>
