@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white&link=https://github.com/zeroseok/Python_by_PyCharm"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/>
 
 
