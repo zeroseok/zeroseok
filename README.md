@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white&link=https://github.com/zeroseok/Python_by_PyCharm"/>
 <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=plastic&logo=intellijidea&logoColor=white"/>
+<a href="https://github.com/zeroseok/Python_by_PyCharm"><img src="https://img.shields.io/badge/PyCharm-000000?style=plastic&logo=PyCharm&logoColor=white&link=https://github.com/zeroseok/Python_by_PyCharm"/></a>
 
 
 
