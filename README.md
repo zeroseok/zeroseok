@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/Kali Linux-557C94?style=plastic&logo=Kali Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=Ubuntu&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white"/>
 
+<a href="https://github.com/zeroseok/C_by_visualstudio"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic&logo=Visual Studio Code&logoColor=white&link=[https://github.com/zeroseok/C_by_visualstudio](https://github.com/zeroseok/HTML_by_visual-studio-code)"/></a>"/>
 
 <a href="https://github.com/zeroseok/C_by_visualstudio"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=plastic&logo=Visual Studio&logoColor=white&link=https://github.com/zeroseok/C_by_visualstudio"/></a>
 
